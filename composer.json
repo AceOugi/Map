@@ -1,0 +1,8 @@
+{
+    "name": "aceougi/map",
+    "type": "library",
+    "require": {
+        "php": "^7.0",
+        "aceougi/router": "*"
+    }
+}
