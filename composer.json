@@ -4,5 +4,6 @@
     "require": {
         "php": "^7.0",
         "aceougi/router": "*"
-    }
+    },
+    "bin": ["map"]
 }
