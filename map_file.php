@@ -1,5 +1,7 @@
 <?php
 
+if (is_file(__DIR__.'/../../autoload.php')) include __DIR__.'/../../autoload.php';
+
 require __DIR__.'/map_router.php';
 
 $classes = get_declared_classes();
