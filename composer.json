@@ -1,9 +1,9 @@
 {
-    "name": "aceougi/map",
+    "name": "ace/mapmaker",
     "type": "library",
     "require": {
         "php": "^7.0",
         "aceougi/router": "*"
     },
-    "bin": ["map"]
+    "bin": ["mapmaker"]
 }
